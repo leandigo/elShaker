@@ -1,0 +1,39 @@
+#shake-desc {
+    position:           absolute;
+    top:                30%;
+    left:               34%;
+    font:               1.5em sans-serif;
+    color:              #444;
+}
+
+#shake-holder {
+    position:           absolute;
+    top:                40%;
+    left:               46%;
+}
+
+#shake {
+    padding:            0.5em 1em;
+    font:               1.5em sans-serif;
+    color:              #fff;
+    background-color:   #361166;
+    border-radius:      2px;
+}
+
+#shake:hover {
+    background-color:   #5e3791;
+    cursor:             pointer;
+}
+
+#footer {
+    text-decoration:    none;
+    font:               1.2em sans-serif;
+    color:              #888;
+    position:           absolute;
+    bottom:             1em;
+    right:              1em;
+}
+
+#footer:hover {
+    text-decoration:    underline;
+}
