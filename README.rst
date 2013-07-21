@@ -1,4 +1,4 @@
-elShaker - A jQuery element shaking extension
+A jQuery element shaking extension
 =============================================
 
 elShaker is a jQuery plugin for simple side to side element shaking. Perfect to visualize a wrong input in form submissions.
@@ -11,7 +11,7 @@ Usage
 ~~~~~
 `$('element').shake(number of shakes, shake distance, total duration);`
 
-**number of shakes** - Total number of shakes of the element, each shake consists of a shake left and a shake right.
+**number of shakes** - Total number of element shakes, each shake consists of a shake left and a shake right.
 
 **shake distance** - Number of pixel to shake to each side.
 
@@ -23,7 +23,7 @@ Example
 
     $('#myelement').shake(3, 10, 500);
 
-`DEMO <https://github.com/leandigo/elShaker/master/example/index.html>`_
+
 
 License
 -------
