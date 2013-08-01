@@ -32,6 +32,9 @@ Example
 
     $('#myelement').shake({shakes: 3, distance: 10, duration: 500});
 
+
+`DEMO <http://leandigo.github.io/elShaker/>`_
+
 License
 -------
 Copyright (c) 2013, Leandigo (|leandigo|_)
