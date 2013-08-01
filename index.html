@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>elShaker - A jQuery plugin for simple element shaking</title>
+
+        <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/jquery.elshaker.js"></script>
+
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="shake-title">elShaker</div>
+        <div id="shake-desc">A jQuery plugin for simple element shaking</div>
+        <div id="shake-holder">
+            <div id="shake">Shake</div>
+        </div>
+        <a id="footer" href="http://www.leandigo.com" target="_blank">&copy;2013 Leandigo</a>
+        <script>
+            $(document).ready(function() {
+               $('#shake').click(function() {
+                    $(this).shake({shakes: 3, distance: 10, duration: 500});
+                });
+            });
+        </script>
+    </body>
+</html>
