@@ -1,24 +1,26 @@
-#shake-title {
+#shake-container {
     position:       absolute;
-    font:           2.5em Arial, sans-serif;
-    font-weight:     bold;
     top:            22%;
     left:           34%;
+}
+
+#shake-title {
+    font:           2.5em Arial, sans-serif;
+    font-weight:     bold;
     color:          #037da5;
 }
 
 #shake-desc {
-    position:       absolute;
-    top:            30%;
-    left:           34%;
+    margin-top:     0.5em;
     font:           1.5em sans-serif;
     color:          #444;
 }
 
 #shake-holder {
-    position:           absolute;
-    top:                40%;
-    left:               46%;
+    margin-top:     2.5em;
+    text-align:     center;
+    margin-left:    10%;
+    width:          80%;
 }
 
 #shake {
@@ -26,7 +28,7 @@
     font:               1.5em sans-serif;
     color:              #fff;
     background-color:   #361166;
-    border-radius:      2px;
+    border-radius:      3px;
 }
 
 #shake:hover {
