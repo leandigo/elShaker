@@ -44,4 +44,8 @@ Released under the MIT License. See the LICENSE file for details.
 .. |leandigo| replace:: www.leandigo.com
 .. _leandigo: http://www.leandigo.com
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cae351df08f7c5d4dfbef4cf8237f1cd "githalytics.com")](http://githalytics.com/leandigo/elShaker)
+.. figure:: https://cruel-carlota.pagodabox.com/cae351df08f7c5d4dfbef4cf8237f1cd
+   :alt: Githalytics
+   :target: http://githalytics.com/leandigo/elShaker
+
+   GitHub analytics by Gitanalytics
