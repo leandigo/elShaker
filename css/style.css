@@ -23,6 +23,26 @@
     width:          80%;
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    #shake-container {
+        top:            30%;
+        left:           15%;
+    }
+
+    #shake-title {
+        font:           4.5em Arial, sans-serif;
+    }
+
+    #shake-desc {
+        font:           3.5em sans-serif;
+    }
+
+    #shake-holder {
+        margin-left:    0;
+        width:          100%;
+    }
+}
+
 #shake {
     padding:            0.5em 1em;
     font:               1.5em sans-serif;
