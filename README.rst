@@ -44,6 +44,4 @@ Released under the MIT License. See the LICENSE file for details.
 .. |leandigo| replace:: www.leandigo.com
 .. _leandigo: http://www.leandigo.com
 
-.. image:: https://d2weczhvl823v0.cloudfront.net/leandigo/elShaker/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cae351df08f7c5d4dfbef4cf8237f1cd "githalytics.com")](http://githalytics.com/leandigo/elShaker)
