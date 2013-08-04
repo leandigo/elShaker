@@ -47,10 +47,3 @@ Released under the MIT License. See the LICENSE file for details.
 .. figure:: https://cruel-carlota.pagodabox.com/cae351df08f7c5d4dfbef4cf8237f1cd
    :alt: Githalytics
    :target: http://githalytics.com/leandigo/elShaker
-
-   GitHub analytics by Gitanalytics
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/leandigo/elShaker/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
