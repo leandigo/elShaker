@@ -43,3 +43,7 @@ Released under the MIT License. See the LICENSE file for details.
 
 .. |leandigo| replace:: www.leandigo.com
 .. _leandigo: http://www.leandigo.com
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/leandigo/elShaker/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
